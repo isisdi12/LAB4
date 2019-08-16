@@ -1,0 +1,73 @@
+body{
+    background: #202020;
+}
+
+.titulo{
+    text-align: center;
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 500%;
+    letter-spacing: 2px;
+}
+
+.maestra{
+    background: gray;
+
+    height: 800px;
+    width: 1300px;
+    padding: 10%;
+    margin: 3%;
+}
+
+.caja1{
+    border: 13px solid rgb(26, 130, 228);
+    background: rgb(5, 60, 85);
+    height: 100px;
+    width: 150px;
+    padding: 10px;
+    margin: 3px;
+    
+}
+
+.div2{
+  background: #5DEAA8;
+  border: 15px solid #24acb1;
+  height: 100px;
+  width: 100px;
+  margin-top: 10px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 10%;
+}
+
+.prueba1{
+    display: flex;
+  justify-content: center;
+}
+
+.prueba2{
+    display: flex;
+  justify-content: center;
+}
+
+.prueba3{
+    display: flex;
+  justify-content: center;
+}
+
+.div3{
+    
+        background: rgb(16, 161, 228);
+        height: 50px;
+        width: 50px;
+        padding: 20px;
+        border: 10px solid rgb(8, 62, 94);
+        border-top-left-radius: 75%;
+        border-top-right-radius: 25%;
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 5%;
+        
+      
+    
+  }
